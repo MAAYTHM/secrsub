@@ -85,13 +85,13 @@ python3 secrsub.py example.com
 ```bash
 echo example.com | python3 secrsub.py -
 ```
-![3.png](https://github.com/MAAYTHM/secrsub/raw/main/images/3.png)
+![2.png](https://github.com/MAAYTHM/secrsub/raw/main/images/2.png)
 
 > **Pipe Input**
 ```bash
 python3 secrsub.py --verify
 ```
-![2.png](https://github.com/MAAYTHM/secrsub/raw/main/images/2.png)
+![3.png](https://github.com/MAAYTHM/secrsub/raw/main/images/3.png)
 
 ## Last Note
 * Ignore any error like :
